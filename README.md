@@ -10,10 +10,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesus581819&show_icons=true" alt="jesus581819" /></p>
 
-## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
-
-- 📫 You can contact me though...
-
 <!---
 jesus581819/jesus581819 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
