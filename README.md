@@ -1,16 +1,8 @@
+### Hello welcome to my profile. 👋
+
 - 👋 Hi, I’m @jesus581819
 - 👀 I’m interested in python and linux projects
 - 🌱 I’m currently learning network automation
-
-### Hello welcome to my profile. 👋
-
-- 🔭 I’m currently working on (example)
-- 🌱 I’m currently learning (example)
-- 👯 I’m looking forward to these next few years, and see where it goes.
-- 🤔 I’m also looking for help on more (example) work, so let me know if you can help out.
-- 💬 Ask me about anything, and im here to help out or talk to.
-
-## ⚡ Fun fact: A cool fun fact about you.
 
 <h3 align="center">Profile Stats</h3>
 
