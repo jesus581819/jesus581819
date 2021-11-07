@@ -14,9 +14,9 @@
 
 <h3 align="center">Profile Stats</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus581819" alt="jesus581819" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="yourusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesus581819&show_icons=true" alt="jesus581819" /></p>
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
